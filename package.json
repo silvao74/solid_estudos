@@ -13,7 +13,7 @@
     "solid"
   ],
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "nodemailer": "^6.9.9",
     "uuidv4": "^6.2.13",
     "yarn.lock": "^0.0.1-security"
